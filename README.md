@@ -1,4 +1,4 @@
-# Hodgkin-Huxley-for-Single-neuron-Yahya-Ashrafi
+# Hodgkin and Huxley model for Single neuron
 The Hodgkin Huxley Equations
 We have many of the components of the Hodgkin Huxley equations; we only need to take a few more steps to see the whole set of equations, which will then naturally suggest how they may be generalized.
 In the absence of external current injection, the only currents present are those that charge or discharge the capacitance of the membrane due to the opening or closing of the voltage-dependent ion channels. Thus, the total membrane current, I_{tot}, is equal to the sum of the capacitative current (I_{cap}) and the sum of the ionic currents, I_{ionic}, or{\displaystyle 
